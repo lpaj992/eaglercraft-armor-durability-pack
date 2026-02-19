@@ -1,0 +1,1 @@
+{"name": "ArmorDurabilityMod", "version": "1.0.0", "description": "Real-time armor durability display mod for Eaglercraft 1.12.2", "author": "lpaj992", "main": "src/main.js", "keywords": ["armor", "durability", "hud", "mod"], "dependencies": {"eaglercraft-api": "^1.12.2"}}
